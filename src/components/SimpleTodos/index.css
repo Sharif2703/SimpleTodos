@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.simple-todos-bg {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.simple-todo-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 95%;
+  border-radius: 10px;
+}
+button {
+  color: #ff0b37;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+h1 {
+  color: #ff8542;
+  font-family: 'Roboto';
+}
